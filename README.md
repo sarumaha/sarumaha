@@ -4,12 +4,11 @@
 
 
 - 🔭 I'm currently focused on Analytics Engineering.
-- 🌱 I'm passionate about building robust data pipelines, conducting deep data analysis, orchestrating controlled experiments, and creating compelling data visualizations.
-- 💬 Feel free to ask me about anything related to data pipelines, data analysis, experimentation techniques, or data visualization strategies.
+- 🌱 I'm passionate about building robust data pipelines, conducting deep data analysis, orchestrating controlled experiments, and creating data visualizations.
+- 💬 Feel free to ask me about anything related to data pipelines, data analysis, experimentation techniques, or data visualization.
 - 📫 How to reach me: [Email](mailto:xxx.xxx@gmail.com)
 - 📄 Learn more about my professional journey: [LinkedIn](https://www.linkedin.com/in/xx-xxx-a065a462/)
 
- 
 
 
 
