@@ -1,7 +1,17 @@
-- 👋 Hi, I’m Yogi
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning statistics
-- 💞️ Let's connect: [Linkedin](https://www.linkedin.com/in/yogi-sarumaha-a065a462/)
+### Hi there 👋
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=<sarumaha>.<sarumaha>)
+
+
+- 🔭 I'm currently focused on Analytics Engineering.
+- 🌱 I'm passionate about building robust data pipelines, conducting deep data analysis, orchestrating controlled experiments, and creating compelling data visualizations.
+- 💬 Feel free to ask me about anything related to data pipelines, data analysis, experimentation techniques, or data visualization strategies.
+- 📫 How to reach me: [Email](mailto:xxx.xxx@gmail.com)
+- 📄 Learn more about my professional journey: [LinkedIn](https://www.linkedin.com/in/xx-xxx-a065a462/)
+
+ 
+
+
 
 <!---
 sarumaha/sarumaha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
