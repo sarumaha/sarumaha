@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=<sarumaha>.<sarumaha>)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=sarumaha&color=blue)
+
 
 
 - 🔭 I'm currently focused on Analytics Engineering.
